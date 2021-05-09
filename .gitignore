@@ -3,3 +3,4 @@ node_modules
 # public/js/config.js
 
 debug.log
+.DS_Store
